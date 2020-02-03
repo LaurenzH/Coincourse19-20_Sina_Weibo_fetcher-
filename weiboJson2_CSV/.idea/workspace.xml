@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06974ecf-96c6-42f2-be79-73ca522d22a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Users\Laure\IdeaProjects\weiboJson2_CSV\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T6qn6i34c9ImNGRrbVLhoVTe9j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.14550781" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="URL_Request" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="URL_request.URL_Request" />
+      <module name="weiboJson2_CSV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="URL_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06974ecf-96c6-42f2-be79-73ca522d22a1" name="Default Changelist" comment="" />
+      <created>1572791057285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572791057285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580629427245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580629427245" />
+    <state x="228" y="441" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575943261270">
+      <screen x="0" y="0" width="2189" height="1419" />
+    </state>
+    <state x="228" y="441" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2189.1419@0.0.2189.1419" timestamp="1575943261270" />
+    <state width="429" height="466" key="DebuggerActiveHint" timestamp="1576537978750">
+      <screen x="0" y="0" width="2189" height="1419" />
+    </state>
+    <state width="429" height="466" key="DebuggerActiveHint/0.0.2189.1419@0.0.2189.1419" timestamp="1576537978750" />
+    <state x="1106" y="228" key="FileChooserDialogImpl" timestamp="1580751738381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1106" y="228" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580751738381" />
+    <state width="1049" height="418" key="GridCell.Tab.-1.bottom" timestamp="1576879687950">
+      <screen x="0" y="0" width="2189" height="1419" />
+    </state>
+    <state width="1049" height="418" key="GridCell.Tab.-1.bottom/0.0.2189.1419@0.0.2189.1419" timestamp="1576879687950" />
+    <state width="1049" height="418" key="GridCell.Tab.-1.center" timestamp="1576879687950">
+      <screen x="0" y="0" width="2189" height="1419" />
+    </state>
+    <state width="1049" height="418" key="GridCell.Tab.-1.center/0.0.2189.1419@0.0.2189.1419" timestamp="1576879687950" />
+    <state width="1049" height="418" key="GridCell.Tab.-1.left" timestamp="1576879687949">
+      <screen x="0" y="0" width="2189" height="1419" />
+    </state>
+    <state width="1049" height="418" key="GridCell.Tab.-1.left/0.0.2189.1419@0.0.2189.1419" timestamp="1576879687949" />
+    <state width="1049" height="418" key="GridCell.Tab.-1.right" timestamp="1576879687950">
+      <screen x="0" y="0" width="2189" height="1419" />
+    </state>
+    <state width="1049" height="418" key="GridCell.Tab.-1.right/0.0.2189.1419@0.0.2189.1419" timestamp="1576879687950" />
+    <state width="1877" height="412" key="GridCell.Tab.0.bottom" timestamp="1580751418830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580751418830" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578329474441" />
+    <state width="1049" height="400" key="GridCell.Tab.0.bottom/0.0.2189.1419@0.0.2189.1419" timestamp="1577615958043" />
+    <state width="1877" height="412" key="GridCell.Tab.0.center" timestamp="1580751418830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580751418830" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578329474441" />
+    <state width="1049" height="400" key="GridCell.Tab.0.center/0.0.2189.1419@0.0.2189.1419" timestamp="1577615958043" />
+    <state width="1877" height="412" key="GridCell.Tab.0.left" timestamp="1580751418830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580751418830" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578329474441" />
+    <state width="1049" height="400" key="GridCell.Tab.0.left/0.0.2189.1419@0.0.2189.1419" timestamp="1577615958043" />
+    <state width="1877" height="412" key="GridCell.Tab.0.right" timestamp="1580751418830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580751418830" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578329474441" />
+    <state width="1049" height="400" key="GridCell.Tab.0.right/0.0.2189.1419@0.0.2189.1419" timestamp="1577615958043" />
+    <state width="1877" height="412" key="GridCell.Tab.1.bottom" timestamp="1580751418275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580751418275" />
+    <state width="1877" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578329474440" />
+    <state width="1049" height="400" key="GridCell.Tab.1.bottom/0.0.2189.1419@0.0.2189.1419" timestamp="1577615958043" />
+    <state width="1877" height="412" key="GridCell.Tab.1.center" timestamp="1580751418275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580751418275" />
+    <state width="1877" height="277" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578329474440" />
+    <state width="1049" height="400" key="GridCell.Tab.1.center/0.0.2189.1419@0.0.2189.1419" timestamp="1577615958043" />
+    <state width="1877" height="412" key="GridCell.Tab.1.left" timestamp="1580751418275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580751418275" />
+    <state width="1877" height="277" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578329474440" />
+    <state width="1049" height="400" key="GridCell.Tab.1.left/0.0.2189.1419@0.0.2189.1419" timestamp="1577615958041" />
+    <state width="1877" height="412" key="GridCell.Tab.1.right" timestamp="1580751418275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580751418275" />
+    <state width="1877" height="277" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578329474440" />
+    <state width="1049" height="400" key="GridCell.Tab.1.right/0.0.2189.1419@0.0.2189.1419" timestamp="1577615958043" />
+    <state x="880" y="61" key="SettingsEditor" timestamp="1580629120574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="61" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580629120574" />
+    <state x="695" y="395" key="com.intellij.ide.util.TipDialog" timestamp="1580751142291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="395" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580751142291" />
+    <state x="2614" y="391" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578335921101" />
+    <state x="791" y="533" key="com.intellij.ide.util.TipDialog/0.0.2189.1419@0.0.2189.1419" timestamp="1579871867586" />
+    <state x="1059" y="485" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576283933795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1059" y="485" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1576283933795" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/URL_request/dataCollector.java</url>
+          <line>425</line>
+          <option name="timeStamp" value="503" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/URL_request/dataCollector.java</url>
+          <line>370</line>
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/URL_request/URL_Request.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="505" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="dataCollector" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
